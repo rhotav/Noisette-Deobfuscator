@@ -1,0 +1,12 @@
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\bin\Debug\NoisetteDeobfuscator.exe.config
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\bin\Debug\NoisetteDeobfuscator.exe
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\bin\Debug\NoisetteDeobfuscator.pdb
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\bin\Debug\dnlib.dll
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.csprojAssemblyReference.cache
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.Form1.resources
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.Properties.Resources.resources
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.csproj.GenerateResource.cache
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.csproj.CopyComplete
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.exe
+C:\Users\root\source\repos\NoisetteDeobfuscator\NoisetteDeobfuscator\obj\Debug\NoisetteDeobfuscator.pdb
